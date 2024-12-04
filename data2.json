@@ -1,0 +1,15 @@
+{
+    "name": "Alina Ivanov",
+    "age": 29,
+    "city": "New York",
+    "interests": [
+        "Traveling",
+        "Books",
+        "Fashion",
+        "Yoga",
+        "Photography",
+        "History",
+        "Movies"
+    ],
+    "is_student": false
+}

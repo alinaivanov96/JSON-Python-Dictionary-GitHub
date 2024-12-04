@@ -1,0 +1,14 @@
+{
+    "name": "0J Simpson",
+    "age": 28,
+    "city": "New York",
+    "interests": [
+        "Traveling",
+        "Books",
+        "Fashion",
+        "Yoga",
+        "Photography",
+        "History"
+    ],
+    "is_student": false
+}
